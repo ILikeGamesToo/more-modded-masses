@@ -1,0 +1,87 @@
+[
+    {
+        "block": "create_connected:brass_gearbox",
+        "friction": 0.4,
+        "mass": 2110
+    },
+    {
+        "block": "create_connected:charged_kinetic_battery",
+        "friction": 0.4,
+        "mass": 1500
+    },
+    {
+        "block": "create_connected:crank_wheel",
+        "friction": 0.7,
+        "mass": 400
+    },
+    {
+        "block": "create_connected:creative_fluid_vessel",
+        "friction": 0.4,
+        "mass": 5000
+    },
+    {
+        "block": "create_connected:empty_fan_catalyst",
+        "friction": 0.2,
+        "mass": 3000
+    },
+    {
+        "block": "create_connected:fluid_vessel",
+        "friction": 0.4,
+        "mass": 5000
+    },
+    {
+        "block": "create_connected:inverted_clutch",
+        "friction": 0.4,
+        "mass": 1100
+    },
+    {
+        "block": "create_connected:inverted_gearshift",
+        "friction": 0.4,
+        "mass": 1100
+    },
+    {
+        "block": "create_connected:item_silo",
+        "friction": 0.1,
+        "mass": 1050
+    },
+    {
+        "block": "create_connected:kinetic_battery",
+        "friction": 0.4,
+        "mass": 1500
+    },
+    {
+        "block": "create_connected:large_crank_wheel",
+        "friction": 0.7,
+        "mass": 600
+    },
+    {
+        "block": "create_connected:parallel_gearbox",
+        "friction": 0.4,
+        "mass": 1210
+    },
+    {
+        "block": "create_connected:sequenced_pulse_generator",
+        "friction": 0.3,
+        "mass": 200
+    },
+    {
+        "block": "create_connected:shear_pin",
+        "friction": 0.7,
+        "mass": 120
+    },
+    {
+        "block": "create_connected:six_way_gearbox",
+        "friction": 0.4,
+        "mass": 1410
+    },
+    {
+        "block": "create_connected:vertical_brass_gearbox",
+        "friction": 0.4,
+        "mass": 2110
+    },
+    {
+        "block": "create_connected:vertical_six_way_gearbox",
+        "friction": 0.4,
+        "mass": 1410
+    }
+]

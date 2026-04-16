@@ -75,7 +75,7 @@
         "mass": 1100
     },
     {
-        "block": "'create_connected:centrifugal_clutch'",
+        "block": "create_connected:centrifugal_clutch",
         "friction": 0.4,
         "mass": 1100
     },

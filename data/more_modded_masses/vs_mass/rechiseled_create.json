@@ -1236,7 +1236,7 @@
   },
   {
     "block": "rechiseledcreate:mechanical_chisel",
-    "mass": 750.0,
+    "mass": 950.0,
     "friction": 0.4
   }
 ]

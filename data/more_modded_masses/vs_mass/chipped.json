@@ -983,224 +983,224 @@
   },
   {
     "block": "chipped:barky_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:barky_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:barky_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -1926,224 +1926,224 @@
   },
   {
     "block": "chipped:blocky_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:blocky_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:blocky_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -3556,42 +3556,42 @@
   },
   {
     "block": "chipped:bundled_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -3610,14 +3610,14 @@
   },
   {
     "block": "chipped:bundled_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -3630,28 +3630,28 @@
   },
   {
     "block": "chipped:bundled_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -3670,56 +3670,56 @@
   },
   {
     "block": "chipped:bundled_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -3738,56 +3738,56 @@
   },
   {
     "block": "chipped:bundled_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -3806,28 +3806,28 @@
   },
   {
     "block": "chipped:bundled_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:bundled_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:bundled_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -5911,42 +5911,42 @@
   },
   {
     "block": "chipped:cornered_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -5965,14 +5965,14 @@
   },
   {
     "block": "chipped:cornered_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -5985,28 +5985,28 @@
   },
   {
     "block": "chipped:cornered_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -6019,56 +6019,56 @@
   },
   {
     "block": "chipped:cornered_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -6087,56 +6087,56 @@
   },
   {
     "block": "chipped:cornered_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -6155,28 +6155,28 @@
   },
   {
     "block": "chipped:cornered_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cornered_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cornered_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -7020,224 +7020,224 @@
   },
   {
     "block": "chipped:crafted_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:crafted_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:crafted_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -7824,224 +7824,224 @@
   },
   {
     "block": "chipped:cross_haired_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cross_haired_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cross_haired_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -8666,140 +8666,140 @@
   },
   {
     "block": "chipped:cubed_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -8830,84 +8830,84 @@
   },
   {
     "block": "chipped:cubed_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:cubed_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:cubed_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -15879,224 +15879,224 @@
   },
   {
     "block": "chipped:harsh_quilted_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:harsh_quilted_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:harsh_quilted_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -17763,224 +17763,224 @@
   },
   {
     "block": "chipped:knitted_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:knitted_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:knitted_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -23049,140 +23049,140 @@
   },
   {
     "block": "chipped:patched_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -23195,56 +23195,56 @@
   },
   {
     "block": "chipped:patched_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -23257,28 +23257,28 @@
   },
   {
     "block": "chipped:patched_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:patched_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:patched_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -25617,224 +25617,224 @@
   },
   {
     "block": "chipped:rectangle_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:rectangle_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:rectangle_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -26457,224 +26457,224 @@
   },
   {
     "block": "chipped:ribbled_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:ribbled_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:ribbled_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -28350,35 +28350,35 @@
   },
   {
     "block": "chipped:scaled_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -28392,105 +28392,105 @@
   },
   {
     "block": "chipped:scaled_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -28503,56 +28503,56 @@
   },
   {
     "block": "chipped:scaled_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -28565,28 +28565,28 @@
   },
   {
     "block": "chipped:scaled_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:scaled_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:scaled_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -31805,196 +31805,196 @@
   },
   {
     "block": "chipped:soft_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -32014,28 +32014,28 @@
   },
   {
     "block": "chipped:soft_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:soft_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:soft_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -33958,224 +33958,224 @@
   },
   {
     "block": "chipped:stringed_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:stringed_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:stringed_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -35089,7 +35089,7 @@
   },
   {
     "block": "chipped:tiled_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35108,7 +35108,7 @@
   },
   {
     "block": "chipped:tiled_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -35127,7 +35127,7 @@
   },
   {
     "block": "chipped:tiled_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35158,7 +35158,7 @@
   },
   {
     "block": "chipped:tiled_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -35483,7 +35483,7 @@
   },
   {
     "block": "chipped:tiled_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35502,7 +35502,7 @@
   },
   {
     "block": "chipped:tiled_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -35591,7 +35591,7 @@
   },
   {
     "block": "chipped:tiled_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35610,7 +35610,7 @@
   },
   {
     "block": "chipped:tiled_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -35730,7 +35730,7 @@
   },
   {
     "block": "chipped:tiled_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35749,14 +35749,14 @@
   },
   {
     "block": "chipped:tiled_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tiled_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35775,7 +35775,7 @@
   },
   {
     "block": "chipped:tiled_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -35817,7 +35817,7 @@
   },
   {
     "block": "chipped:tiled_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35836,14 +35836,14 @@
   },
   {
     "block": "chipped:tiled_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tiled_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35862,14 +35862,14 @@
   },
   {
     "block": "chipped:tiled_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tiled_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35888,7 +35888,7 @@
   },
   {
     "block": "chipped:tiled_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -35907,7 +35907,7 @@
   },
   {
     "block": "chipped:tiled_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -35926,7 +35926,7 @@
   },
   {
     "block": "chipped:tiled_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -36046,7 +36046,7 @@
   },
   {
     "block": "chipped:tiled_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -36065,7 +36065,7 @@
   },
   {
     "block": "chipped:tiled_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -36096,7 +36096,7 @@
   },
   {
     "block": "chipped:tiled_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -36115,7 +36115,7 @@
   },
   {
     "block": "chipped:tiled_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -36134,7 +36134,7 @@
   },
   {
     "block": "chipped:tiled_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -36153,7 +36153,7 @@
   },
   {
     "block": "chipped:tiled_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -36220,7 +36220,7 @@
   },
   {
     "block": "chipped:tiled_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -36263,7 +36263,7 @@
   },
   {
     "block": "chipped:tiled_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -36375,7 +36375,7 @@
   },
   {
     "block": "chipped:tiled_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -36394,14 +36394,14 @@
   },
   {
     "block": "chipped:tiled_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tiled_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
@@ -36420,7 +36420,7 @@
   },
   {
     "block": "chipped:tiled_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -37675,224 +37675,224 @@
   },
   {
     "block": "chipped:tripped_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:tripped_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:tripped_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -40537,42 +40537,42 @@
   },
   {
     "block": "chipped:wickered_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -40591,14 +40591,14 @@
   },
   {
     "block": "chipped:wickered_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -40611,28 +40611,28 @@
   },
   {
     "block": "chipped:wickered_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -40645,56 +40645,56 @@
   },
   {
     "block": "chipped:wickered_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -40707,56 +40707,56 @@
   },
   {
     "block": "chipped:wickered_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -40775,28 +40775,28 @@
   },
   {
     "block": "chipped:wickered_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:wickered_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:wickered_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -40863,224 +40863,224 @@
   },
   {
     "block": "chipped:windmill_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:windmill_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:windmill_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
@@ -41359,224 +41359,224 @@
   },
   {
     "block": "chipped:woved_black_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_black_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_brown_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_brown_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_cyan_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_cyan_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_green_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_green_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_light_blue_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_light_blue_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_light_gray_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_light_gray_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_lime_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_lime_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_magenta_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_magenta_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_orange_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_orange_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_pink_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_pink_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_purple_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_purple_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_red_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_red_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_white_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_white_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5
   },
   {
     "block": "chipped:woved_yellow_carpet",
-    "mass": 20.0,
+    "mass": 5.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.05
   },
   {
     "block": "chipped:woved_yellow_wool",
-    "mass": 500.0,
+    "mass": 50.0,
     "priority": 102,
     "friction": 0.6,
     "elasticity": 0.5

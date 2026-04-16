@@ -1,7 +1,7 @@
 [
   {
     "block": "supplementaries:ash",
-    "mass": 999.0,
+    "mass": 10.0,
     "friction": 0.5
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "block": "supplementaries:ashen_basalt",
-    "mass": 999.0,
+    "mass": 2400.0,
     "friction": 0.5
   },
   {
@@ -116,12 +116,12 @@
   },
   {
     "block": "supplementaries:bamboo_spikes",
-    "mass": 999.0,
+    "mass": 240.0,
     "friction": 0.5
   },
   {
     "block": "supplementaries:barnacles",
-    "mass": 999.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
@@ -131,12 +131,12 @@
   },
   {
     "block": "supplementaries:blackboard",
-    "mass": 999.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
     "block": "supplementaries:blackstone_lamp",
-    "mass": 2400.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "block": "supplementaries:blaze_rod",
-    "mass": 999.0,
+    "mass": 50.0,
     "friction": 0.5
   },
   {
@@ -171,17 +171,17 @@
   },
   {
     "block": "supplementaries:book_pile",
-    "mass": 999.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
     "block": "supplementaries:book_pile_horizontal",
-    "mass": 999.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
     "block": "supplementaries:bubble_block",
-    "mass": 999.0,
+    "mass": 1.0,
     "friction": 0.5
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "block": "supplementaries:cracked_bell",
-    "mass": 999.0,
+    "mass": 500.0,
     "friction": 0.5
   },
   {
@@ -531,7 +531,7 @@
   },
   {
     "block": "supplementaries:deepslate_lamp",
-    "mass": 2400.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
@@ -546,7 +546,7 @@
   },
   {
     "block": "supplementaries:drawers",
-    "mass": 999.0,
+    "mass": 500.0,
     "friction": 0.5
   },
   {
@@ -571,12 +571,12 @@
   },
   {
     "block": "supplementaries:faucet",
-    "mass": 999.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
     "block": "supplementaries:feather_block",
-    "mass": 999.0,
+    "mass": 250.0,
     "friction": 0.5
   },
   {
@@ -706,12 +706,12 @@
   },
   {
     "block": "supplementaries:globe",
-    "mass": 999.0,
+    "mass": 150.0,
     "friction": 0.5
   },
   {
     "block": "supplementaries:globe_sepia",
-    "mass": 999.0,
+    "mass": 150.0,
     "friction": 0.5
   },
   {

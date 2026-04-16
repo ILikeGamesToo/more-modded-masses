@@ -1,561 +1,561 @@
 [
   {
-    "tag": "rechiseledcreate:andesite_cut_polished",
+    "block": "rechiseledcreate:andesite_cut_polished_connecting",
     "mass": 2500.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:andesite_cut_polished_stairs",
+    "block": "rechiseledcreate:andesite_cut_polished_stairs_connecting",
     "mass": 1875.0,
     "friction": 0.4,
     "priority": 102
   },
   {
-    "tag": "rechiseledcreate:andesite_cut_polished_slabs",
+    "block": "rechiseledcreate:andesite_cut_polished_slabs_connecting",
     "mass": 1250.0,
     "friction": 0.4,
     "priority": 102
   },
   {
-    "tag": "rechiseledcreate:andesite_cut_small_brick",
+    "block": "rechiseledcreate:andesite_cut_small_brick_connecting",
     "mass": 2500.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:andesite_cut_small_brick_stairs",
+    "block": "rechiseledcreate:andesite_cut_small_brick_stairs_connecting",
     "mass": 1875.0,
     "friction": 0.5,
     "priority": 102
   },
   {
-    "tag": "rechiseledcreate:andesite_cut_small_brick_slabs",
+    "block": "rechiseledcreate:andesite_cut_small_brick_slabs_connecting",
     "mass": 1250.0,
     "friction": 0.5,
     "priority": 102
   },
   {
-    "tag": "rechiseledcreate:asurine_cut_polished",
+    "block": "rechiseledcreate:asurine_cut_polished_connecting",
     "mass": 2750.0,
     "friction": 0.35
   },
   {
-    "tag": "rechiseledcreate:asurine_cut_small_brick",
+    "block": "rechiseledcreate:asurine_cut_small_brick_connecting",
     "mass": 2750.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:calcite_cut_polished",
+    "block": "rechiseledcreate:calcite_cut_polished_connecting",
     "mass": 2700.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:calcite_cut_small_brick",
+    "block": "rechiseledcreate:calcite_cut_small_brick_connecting",
     "mass": 2700.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:crimsite_cut_polished",
+    "block": "rechiseledcreate:crimsite_cut_polished_connecting",
     "mass": 2750.0,
     "friction": 0.35
   },
   {
-    "tag": "rechiseledcreate:crimsite_cut_small_brick",
+    "block": "rechiseledcreate:crimsite_cut_small_brick_connecting",
     "mass": 2750.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:deepslate_cut_polished",
+    "block": "rechiseledcreate:deepslate_cut_polished_connecting",
     "mass": 2750.0,
     "friction": 0.35
   },
   {
-    "tag": "rechiseledcreate:deepslate_cut_small_brick",
+    "block": "rechiseledcreate:deepslate_cut_small_brick_connecting",
     "mass": 2750.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:diorite_cut_polished",
+    "block": "rechiseledcreate:diorite_cut_polished_connecting",
     "mass": 2500.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:diorite_cut_small_brick",
+    "block": "rechiseledcreate:diorite_cut_small_brick_connecting",
     "mass": 2500.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:dripstone_cut_polished",
+    "block": "rechiseledcreate:dripstone_cut_polished_connecting",
     "mass": 2700.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:dripstone_cut_small_brick",
+    "block": "rechiseledcreate:dripstone_cut_small_brick_connecting",
     "mass": 2700.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:granite_cut_polished",
+    "block": "rechiseledcreate:granite_cut_polished_connecting",
     "mass": 2500.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:granite_cut_small_brick",
+    "block": "rechiseledcreate:granite_cut_small_brick_connecting",
     "mass": 2500.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:limestone_cut_polished",
+    "block": "rechiseledcreate:limestone_cut_polished_connecting",
     "mass": 2400.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:limestone_cut_small_brick",
+    "block": "rechiseledcreate:limestone_cut_small_brick_connecting",
     "mass": 2400.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:ochrum_cut_polished",
+    "block": "rechiseledcreate:ochrum_cut_polished_connecting",
     "mass": 2700.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:ochrum_cut_small_brick",
+    "block": "rechiseledcreate:ochrum_cut_small_brick_connecting",
     "mass": 2700.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:rose_quartz_bricks",
+    "block": "rechiseledcreate:rose_quartz_bricks_connecting",
     "mass": 2750.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:rose_quartz_chiseled",
+    "block": "rechiseledcreate:rose_quartz_chiseled_connecting",
     "mass": 2750.0,
     "friction": 0.6
   },
   {
-    "tag": "rechiseledcreate:rose_quartz_crushed",
+    "block": "rechiseledcreate:rose_quartz_crushed_connecting",
     "mass": 2750.0,
     "friction": 0.7
   },
   {
-    "tag": "rechiseledcreate:rose_quartz_polished_block",
+    "block": "rechiseledcreate:rose_quartz_polished_block_connecting",
     "mass": 2750.0,
     "friction": 0.35
   },
   {
-    "tag": "rechiseledcreate:rose_quartz_squares",
+    "block": "rechiseledcreate:rose_quartz_squares_connecting",
     "mass": 2750.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:rose_quartz_tiles",
+    "block": "rechiseledcreate:rose_quartz_tiles_connecting",
     "mass": 2750.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:scorchia_cut_polished",
+    "block": "rechiseledcreate:scorchia_cut_polished_connecting",
     "mass": 3500.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:scorchia_cut_small_brick",
+    "block": "rechiseledcreate:scorchia_cut_small_brick_connecting",
     "mass": 3500.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:scoria_cut_polished",
+    "block": "rechiseledcreate:scoria_cut_polished_connecting",
     "mass": 3500.0,
     "friction": 0.5
   },
   {
-    "tag": "rechiseledcreate:scoria_cut_small_brick",
+    "block": "rechiseledcreate:scoria_cut_small_brick_connecting",
     "mass": 3500.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:tuff_cut_polished",
+    "block": "rechiseledcreate:tuff_cut_polished_connecting",
     "mass": 1800.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:tuff_cut_small_brick",
+    "block": "rechiseledcreate:tuff_cut_small_brick_connecting",
     "mass": 1800.0,
     "friction": 0.7
   },
   {
-    "tag": "rechiseledcreate:veridium_cut_polished",
+    "block": "rechiseledcreate:veridium_cut_polished_connecting",
     "mass": 1800.0,
     "friction": 0.4
   },
   {
-    "tag": "rechiseledcreate:veridium_cut_small_brick",
+    "block": "rechiseledcreate:veridium_cut_small_brick_connecting",
     "mass": 1800.0,
     "friction": 0.7
   },
   {
-    "tag": "rechiseledcreate:acacia_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:acacia_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:acacia_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:acacia_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:acacia_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:acacia_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:acacia_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:acacia_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:acacia_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:birch_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:birch_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:crimson_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:crimson_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:dark_oak_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:dark_oak_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:jungle_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:jungle_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:mangrove_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:mangrove_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:oak_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:oak_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_swirling",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_swirling",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:spruce_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:spruce_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_bars",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_bars",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_covered",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_covered",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_diagonal",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_diagonal",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_large",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_large",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_panes",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_panes",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_rounded",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_rounded",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_slim",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_slim",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {
-    "tag": "rechiseledcreate:warped_window_tiles",
-    "mass": 250.0,
+    "block": "rechiseledcreate:warped_window_tiles",
+    "mass": 2000.0,
     "friction": 0.2
   },
   {

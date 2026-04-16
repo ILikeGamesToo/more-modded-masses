@@ -1,0 +1,197 @@
+[
+  {
+    "block": "amendments:brewing_stand",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:carpet_slab",
+    "mass": 1200.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:carpet_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:cauldron",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:cauldron_hack",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:ceiling_banner_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:directional_cake",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:double_cake",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:dye_cauldron",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:hanging_flower_pot",
+    "mass": 300.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:lava_cauldron",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:liquid_cauldron",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:powder_snow_cauldron",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:sign_oak",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:sign_oak_wall",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:skull_candle",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:skull_candle_soul",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:skull_candle_soul_wall",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:skull_candle_wall",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:skull_pile",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:tool_hook",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:wall_lantern",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:water_cauldron",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "amendments:water_lily_pad",
+    "mass": 999.0,
+    "friction": 0.5
+  }
+]

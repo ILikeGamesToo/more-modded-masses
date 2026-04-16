@@ -1,0 +1,117 @@
+[
+  {
+    "block": "createaddition:accumulator",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:alternator",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:barbed_wire",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:bioethanol",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:biomass_pellet_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:chocolate_cake",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:connector",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:connector_old",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:copper_wire_casing",
+    "mass": 1000.0,
+    "friction": 0.4
+  },
+  {
+    "block": "createaddition:creative_energy",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:digital_adapter",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:electric_motor",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:electrum_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:honey_cake",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:large_connector",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:liquid_blaze_burner",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:modular_accumulator",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:portable_energy_interface",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:redstone_relay",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:rolling_mill",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:seed_oil",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:small_light_connector",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createaddition:tesla_coil",
+    "mass": 999.0,
+    "friction": 0.5
+  }
+]

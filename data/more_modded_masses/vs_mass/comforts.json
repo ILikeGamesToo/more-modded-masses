@@ -1,0 +1,167 @@
+[
+  {
+    "block": "comforts:hammock_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:hammock_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:rope_and_nail",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "comforts:sleeping_bag_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  }
+]

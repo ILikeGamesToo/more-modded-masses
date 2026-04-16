@@ -1,0 +1,32 @@
+[
+  {
+    "block": "createdeco:andesite_catwalk_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createdeco:brass_catwalk_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  },
+  {
+    "block": "createdeco:copper_catwalk_stairs",
+    "mass": 5812.5,
+    "friction": 0.4
+  },
+  {
+    "block": "createdeco:industrial_iron_catwalk_stairs",
+    "mass": 5812.5,
+    "friction": 0.4
+  },
+  {
+    "block": "createdeco:iron_catwalk_stairs",
+    "mass": 5812.5,
+    "friction": 0.4
+  },
+  {
+    "block": "createdeco:zinc_catwalk_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  }
+]

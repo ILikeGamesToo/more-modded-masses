@@ -11,7 +11,7 @@
     "priority": 102
   },
   {
-    "block": "rechiseledcreate:andesite_cut_polished_slabs_connecting",
+    "block": "rechiseledcreate:andesite_cut_polished_slab_connecting",
     "mass": 1250.0,
     "friction": 0.4,
     "priority": 102
@@ -28,7 +28,7 @@
     "priority": 102
   },
   {
-    "block": "rechiseledcreate:andesite_cut_small_brick_slabs_connecting",
+    "block": "rechiseledcreate:andesite_cut_small_brick_slab_connecting",
     "mass": 1250.0,
     "friction": 0.5,
     "priority": 102
@@ -54,6 +54,18 @@
     "block": "rechiseledcreate:asurine_cut_small_brick_connecting",
     "mass": 2750.0,
     "friction": 0.5
+  },
+  {
+    "block": "rechiseledcreate:asurine_cut_small_brick_stairs_connecting",
+    "mass": 2062.5,
+    "friction": 0.5,
+    "priority": 102
+  },
+  {
+    "block": "rechiseledcreate:asurine_cut_small_brick_slab_connecting",
+    "mass": 1375.0,
+    "friction": 0.5,
+    "priority": 102
   },
   {
     "block": "rechiseledcreate:calcite_cut_polished_connecting",
@@ -128,9 +140,33 @@
     "friction": 0.35
   },
   {
+    "block": "rechiseledcreate:deepslate_cut_polished_stairs_connecting",
+    "mass": 2062.5,
+    "friction": 0.35,
+    "priority": 102
+  },
+  {
+    "block": "rechiseledcreate:deepslate_cut_polished_slab_connecting",
+    "mass": 1375.0,
+    "friction": 0.35,
+    "priority": 102
+  },
+  {
     "block": "rechiseledcreate:deepslate_cut_small_brick_connecting",
     "mass": 2750.0,
     "friction": 0.5
+  },
+  {
+    "block": "rechiseledcreate:deepslate_cut_small_brick_stairs_connecting",
+    "mass": 2062.5,
+    "friction": 0.5,
+    "priority": 102
+  },
+  {
+    "block": "rechiseledcreate:deepslate_cut_small_brick_slab_connecting",
+    "mass": 1375.0,
+    "friction": 0.5,
+    "priority": 102
   },
   {
     "block": "rechiseledcreate:diorite_cut_polished_connecting",

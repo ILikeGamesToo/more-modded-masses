@@ -35,16 +35,6 @@
     "friction": 0.5
   },
   {
-    "block": "createaddition:connector_old",
-    "mass": 999.0,
-    "friction": 0.5
-  },
-  {
-    "block": "createaddition:copper_wire_casing",
-    "mass": 1000.0,
-    "friction": 0.4
-  },
-  {
     "block": "createaddition:creative_energy",
     "mass": 999.0,
     "friction": 0.5

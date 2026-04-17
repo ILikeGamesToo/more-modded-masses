@@ -95,7 +95,7 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:andesite_locked_door",
+    "block": "createdeco:locked_andesite_door",
     "mass": 715.0,
     "friction": 0.5
   },
@@ -110,7 +110,7 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:brass_locked_door",
+    "block": "createdeco:locked_brass_door",
     "mass": 860.0,
     "friction": 0.5
   },
@@ -125,7 +125,7 @@
     "friction": 0.4
   },
   {
-    "block": "createdeco:copper_locked_door",
+    "block": "createdeco:locked_copper_door",
     "mass": 900.0,
     "friction": 0.4
   },
@@ -140,7 +140,7 @@
     "friction": 0.4
   },
   {
-    "block": "createdeco:industrial_iron_locked_door",
+    "block": "createdeco:locked_industrial_iron_door",
     "mass": 385.0,
     "friction": 0.4
   },
@@ -155,7 +155,7 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:zinc_locked_door",
+    "block": "createdeco:locked_zinc_door",
     "mass": 715.0,
     "friction": 0.5
   },

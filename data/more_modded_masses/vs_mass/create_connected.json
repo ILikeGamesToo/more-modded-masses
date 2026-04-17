@@ -1,8 +1,8 @@
 [
     {
-        "block": "create_connected:brass_gearbox",
+        "block": "create_connected:kinetic_battery",
         "friction": 0.4,
-        "mass": 2110
+        "mass": 1500
     },
     {
         "block": "create_connected:charged_kinetic_battery",
@@ -10,14 +10,19 @@
         "mass": 1500
     },
     {
+        "block": "create_connected:encased_chain_cogwheel",
+        "friction": 0.4,
+        "mass": 1450
+    },
+    {
         "block": "create_connected:crank_wheel",
         "friction": 0.7,
         "mass": 400
     },
     {
-        "block": "create_connected:creative_fluid_vessel",
-        "friction": 0.4,
-        "mass": 5000
+        "block": "create_connected:large_crank_wheel",
+        "friction": 0.7,
+        "mass": 600
     },
     {
         "block": "create_connected:empty_fan_catalyst",
@@ -25,19 +30,34 @@
         "mass": 3000
     },
     {
-        "block": "create_connected:fluid_vessel",
+        "block": "create_connected:fan_blasting_catalyst",
+        "friction": 0.2,
+        "mass": 3000
+    },
+    {
+        "block": "create_connected:fan_smoking_catalyst",
+        "friction": 0.2,
+        "mass": 3000
+    },
+    {
+        "block": "create_connected:fan_splashing_catalyst",
+        "friction": 0.2,
+        "mass": 3000
+    },
+    {
+        "block": "create_connected:fan_haunting_catalyst",
+        "friction": 0.2,
+        "mass": 3000
+    },
+    {
+        "block": "create_connected:creative_fluid_vessel",
         "friction": 0.4,
         "mass": 5000
     },
     {
-        "block": "create_connected:inverted_clutch",
+        "block": "create_connected:fluid_vessel",
         "friction": 0.4,
-        "mass": 1100
-    },
-    {
-        "block": "create_connected:inverted_gearshift",
-        "friction": 0.4,
-        "mass": 1100
+        "mass": 5000
     },
     {
         "block": "create_connected:item_silo",
@@ -45,14 +65,34 @@
         "mass": 1050
     },
     {
-        "block": "create_connected:kinetic_battery",
+        "block": "create_connected:inverted_clutch",
         "friction": 0.4,
-        "mass": 1500
+        "mass": 1100
     },
     {
-        "block": "create_connected:large_crank_wheel",
-        "friction": 0.7,
-        "mass": 600
+        "block": "create_connected:overstress_clutch",
+        "friction": 0.4,
+        "mass": 1100
+    },
+    {
+        "block": "create_connected:centrifugal_clutch",
+        "friction": 0.4,
+        "mass": 1100
+    },
+    {
+        "block": "create_connected:freewheel_clutch",
+        "friction": 0.4,
+        "mass": 1100
+    },
+    {
+        "block": "create_connected:brake",
+        "friction": 0.4,
+        "mass": 1100
+    },
+    {
+        "block": "create_connected:inverted_gearshift",
+        "friction": 0.4,
+        "mass": 1100
     },
     {
         "block": "create_connected:parallel_gearbox",
@@ -70,9 +110,24 @@
         "mass": 120
     },
     {
+        "block": "create_connected:cross_connector",
+        "friction": 0.4,
+        "mass": 500
+    },
+    {
         "block": "create_connected:six_way_gearbox",
         "friction": 0.4,
         "mass": 1410
+    },
+    {
+        "block": "create_connected:vertical_six_way_gearbox",
+        "friction": 0.4,
+        "mass": 1410
+    },
+    {
+        "block": "create_connected:brass_gearbox",
+        "friction": 0.4,
+        "mass": 2110
     },
     {
         "block": "create_connected:vertical_brass_gearbox",
@@ -80,8 +135,18 @@
         "mass": 2110
     },
     {
-        "block": "create_connected:vertical_six_way_gearbox",
+        "block": "create_connected:kinetic_bridge",
         "friction": 0.4,
-        "mass": 1410
+        "mass": 4500
+    },
+    {
+        "block": "create_connected:inventory_access_port",
+        "friction": 0.4,
+        "mass": 500
+    },
+    {
+        "block": "create_connected:inventory_bridge",
+        "friction": 0.4,
+        "mass": 500
     }
 ]

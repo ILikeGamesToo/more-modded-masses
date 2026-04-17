@@ -170,7 +170,7 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:andesite_bar_panels",
+    "block": "createdeco:andesite_bars_overlay",
     "mass": 250.0,
     "friction": 0.5
   },
@@ -180,7 +180,7 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:brass_bar_panels",
+    "block": "createdeco:brass_bars_overlay",
     "mass": 250.0,
     "friction": 0.5
   },
@@ -190,7 +190,7 @@
     "friction": 0.4
   },
   {
-    "block": "createdeco:copper_bar_panels",
+    "block": "createdeco:copper_bars_overlay",
     "mass": 250.0,
     "friction": 0.4
   },
@@ -200,7 +200,7 @@
     "friction": 0.4
   },
   {
-    "block": "createdeco:industrial_iron_bar_panels",
+    "block": "createdeco:industrial_iron_bars_overlay",
     "mass": 250.0,
     "friction": 0.4
   },
@@ -210,7 +210,7 @@
     "friction": 0.4
   },
   {
-    "block": "createdeco:iron_bar_panels",
+    "block": "createdeco:iron_bars_overlay",
     "mass": 250.0,
     "friction": 0.4
   },
@@ -220,7 +220,7 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:zinc_bar_panels",
+    "block": "createdeco:zinc_bars_overlay",
     "mass": 250.0,
     "friction": 0.5
   },

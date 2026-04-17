@@ -1,0 +1,17 @@
+[
+    {
+        "block": "create_enchantment_industry:blaze_enchanter",
+        "friction": 0.6,
+        "mass": 2250.0
+    },
+    {
+        "block": "create_enchantment_industry:printer",
+        "friction": 0.4,
+        "mass": 2500.0
+    },
+    {
+        "block": "create_enchantment_industry:disenchanter",
+        "friction": 0.4,
+        "mass": 800.0
+    }
+]

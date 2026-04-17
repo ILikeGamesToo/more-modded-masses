@@ -1,0 +1,1352 @@
+[
+  {
+    "block": "supplementaries:ash",
+    "mass": 10.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:ash_bricks",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:ash_bricks_slab",
+    "mass": 1200.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:ash_bricks_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:ash_bricks_wall",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:ashen_basalt",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:awning_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bamboo_spikes",
+    "mass": 240.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:barnacles",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bellows",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:blackboard",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:blackstone_lamp",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:blackstone_tile",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:blackstone_tile_slab",
+    "mass": 1200.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:blackstone_tile_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:blackstone_tile_wall",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:blaze_rod",
+    "mass": 50.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:block_generator",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:book_pile",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:book_pile_horizontal",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bubble_block",
+    "mass": 1.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_wall_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:bunting_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:cage",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_cupric",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_ender",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_soul",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_spectacle",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:candle_holder_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:cannon",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:cannonball",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:checker_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:checker_slab",
+    "mass": 1200.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:checker_vertical_slab",
+    "mass": 1200.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:clock_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:cog_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:confetti_litter",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:cracked_bell",
+    "mass": 500.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:crank",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:crystal_display",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:daub",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:daub_brace",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:daub_cross_brace",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:daub_frame",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:deepslate_lamp",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:diode_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:doormat",
+    "mass": 100.0,
+    "friction": 0.4
+  },
+  {
+    "block": "supplementaries:drawers",
+    "mass": 500.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:edelwood_stick",
+    "mass": 600.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:end_stone_lamp",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:enderman_head",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:enderman_wall_head",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:faucet",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:feather_block",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:fine_wood",
+    "mass": 600.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:fine_wood_slab",
+    "mass": 300.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:fine_wood_stairs",
+    "mass": 450.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:fire_pit",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flag_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flax",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flax_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flint_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:flower_box",
+    "mass": 300.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:fodder",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:globe",
+    "mass": 150.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:globe_sepia",
+    "mass": 150.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:goblet",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:gold_bars",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:gold_door",
+    "mass": 100.0,
+    "friction": 0.4
+  },
+  {
+    "block": "supplementaries:gold_gate",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:gold_trapdoor",
+    "mass": 100.0,
+    "friction": 0.4
+  },
+  {
+    "block": "supplementaries:gravel_bricks",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:gunpowder",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:hourglass",
+    "mass": 2000.0,
+    "friction": 0.4
+  },
+  {
+    "block": "supplementaries:iron_gate",
+    "mass": 1000.0,
+    "friction": 0.4
+  },
+  {
+    "block": "supplementaries:item_shelf",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:jar",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:jar_boat",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:jar_tinted",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:label",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:lapis_bricks",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:lapis_bricks_slab",
+    "mass": 1200.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:lapis_bricks_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:lapis_bricks_wall",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:lock_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:lumisene",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:lunch_basket",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:mob_jar",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:moving_slidy_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:moving_slidy_block_source",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:netherite_door",
+    "mass": 100.0,
+    "friction": 0.4
+  },
+  {
+    "block": "supplementaries:netherite_trapdoor",
+    "mass": 100.0,
+    "friction": 0.4
+  },
+  {
+    "block": "supplementaries:notice_board",
+    "mass": 999.0,
+    "friction": 0.02
+  },
+  {
+    "block": "supplementaries:pancake",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:pedestal",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:planter",
+    "mass": 300.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:potted_flax",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:present_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:prismarine_rod",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:propelplant_cane",
+    "mass": 300.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:pulley_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:raked_gravel",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:redstone_illuminator",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:relayer",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rooty_supplementaries_planter",
+    "mass": 300.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rooty_supplementaries_planter_rich",
+    "mass": 300.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope_buntings",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope_chandelier",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope_ender_chandelier",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope_glow_chandelier",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope_knot",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope_soul_chandelier",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:rope_tomatoes",
+    "mass": 50.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sack",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:safe",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_ender",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_glow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_lever",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_nether_brass",
+    "mass": 900.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_soul",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_wall",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_wall_ender",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_wall_glow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_wall_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_wall_nether_brass",
+    "mass": 900.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sconce_wall_soul",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:slidy_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:soap_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:soul_jar",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:speaker_block",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:spider_head",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:spider_wall_head",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:spring_launcher",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:spring_launcher_arm",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:spring_launcher_head",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:statue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:stick",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:stick_tomatoes",
+    "mass": 50.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:stone_lamp",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:stone_tile",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:stone_tile_slab",
+    "mass": 1200.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:stone_tile_stairs",
+    "mass": 1800.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:stone_tile_wall",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:structure_temp",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:sugar_cube",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:suspicious_gravel_bricks",
+    "mass": 2400.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:tater_in_a_jar",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:timber_brace",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:timber_cross_brace",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:timber_frame",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_black",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_brown",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_cyan",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_green",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_light_blue",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_light_gray",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_lime",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_magenta",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_orange",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_pink",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_purple",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_red",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_white",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:trapped_present_yellow",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:turn_table",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:urn",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:way_sign",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:way_sign_wall",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:wicker_fence",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:wild_flax",
+    "mass": 999.0,
+    "friction": 0.5
+  },
+  {
+    "block": "supplementaries:wind_vane",
+    "mass": 999.0,
+    "friction": 0.5
+  }
+]

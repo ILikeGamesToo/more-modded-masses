@@ -5,6 +5,11 @@
         "mass": 10
     },
     {
+        "block": "create:andesite_alloy_block",
+        "friction": 0.3,
+        "mass": 7150
+    },
+    {
         "block": "create:andesite_belt_funnel",
         "friction": 0.77,
         "mass": 250
@@ -12,7 +17,7 @@
     {
         "block": "create:andesite_casing",
         "friction": 0.4,
-        "mass": 750
+        "mass": 950
     },
     {
         "block": "create:andesite_door",
@@ -335,6 +340,16 @@
         "mass": 420
     },
     {
+        "block": "create:industrial_iron_block",
+        "friction": 0.3,
+        "mass": 1925
+    },
+    {
+        "block": "create:weathered_iron_block",
+        "friction": 0.3,
+        "mass": 1925
+    },
+    {
         "block": "create:item_drain",
         "friction": 0.4,
         "mass": 800
@@ -382,7 +397,7 @@
     {
         "block": "create:mechanical_drill",
         "friction": 0.2,
-        "mass": 750
+        "mass": 1100
     },
     {
         "block": "create:mechanical_harvester",
@@ -407,7 +422,7 @@
     {
         "block": "create:mechanical_plough",
         "friction": 0.2,
-        "mass": 750
+        "mass": 550
     },
     {
         "block": "create:mechanical_press",
@@ -420,9 +435,14 @@
         "mass": 850
     },
     {
+        "block": "create:mechanical_roller",
+        "friction": 0.5,
+        "mass": 5950
+    },
+    {
         "block": "create:mechanical_saw",
         "friction": 0.2,
-        "mass": 750
+        "mass": 950
     },
     {
         "block": "create:metal_girder",
@@ -545,6 +565,21 @@
         "mass": 1450
     },
     {
+        "block": "create:rose_quartz_block",
+        "friction": 0.4,
+        "mass": 2750
+    },
+    {
+        "block": "create:rose_quartz_tiles",
+        "friction": 0.4,
+        "mass": 2750
+    },
+    {
+        "block": "create:small_rose_quartz_tiles",
+        "friction": 0.4,
+        "mass": 2750
+    },
+    {
         "block": "create:rotation_speed_controller",
         "friction": 0.4,
         "mass": 3800
@@ -652,7 +687,7 @@
     {
         "block": "create:track_signal",
         "friction": 0.4,
-        "mass": 250
+        "mass": 375
     },
     {
         "block": "create:track_station",
@@ -708,5 +743,10 @@
         "tag": "forge:glass_panes",
         "friction": 0.4,
         "mass": 250
+    },
+    {
+        "tag" : "#create:seats",
+        "friction": 0.5,
+        "mass": 125
     }
 ]

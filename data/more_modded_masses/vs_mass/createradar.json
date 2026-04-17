@@ -1,0 +1,72 @@
+[
+  {
+    "block": "create_radar:auto_pitch_controller",
+    "mass": 1700.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:auto_yaw_controller",
+    "mass": 1700.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:creative_radar_plate",
+    "mass": 150.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:data_link",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:fire_controller",
+    "mass": 1500.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:identification_transponder",
+    "mass": 1025.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:monitor",
+    "mass": 1550.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:network_filterer",
+    "mass": 350.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:plane_radar",
+    "mass": 1250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:radar_bearing",
+    "mass": 1550.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:radar_dish_block",
+    "mass": 100.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:radar_plate_block",
+    "mass": 250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:radar_receiver_block",
+    "mass": 1250.0,
+    "friction": 0.5
+  },
+  {
+    "block": "create_radar:radar_warning_receiver",
+    "mass": 1006.7,
+    "friction": 0.5
+  }
+]

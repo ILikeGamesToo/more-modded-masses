@@ -790,37 +790,37 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_brick",
+    "block": "createdeco:blue_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_short_brick",
+    "block": "createdeco:short_blue_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_tiled_brick",
+    "block": "createdeco:tiled_blue_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_long_brick",
+    "block": "createdeco:long_blue_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_corner_brick",
+    "block": "createdeco:corner_blue_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_cracked_brick",
+    "block": "createdeco:cracked_blue_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_mossy_brick",
+    "block": "createdeco:mossy_blue_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
@@ -830,32 +830,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_short_brick_stairs",
+    "block": "createdeco:short_blue_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_tiled_brick_stairs",
+    "block": "createdeco:tiled_blue_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_long_brick_stairs",
+    "block": "createdeco:long_blue_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_corner_brick_stairs",
+    "block": "createdeco:corner_blue_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_cracked_brick_stairs",
+    "block": "createdeco:cracked_blue_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_mossy_brick_stairs",
+    "block": "createdeco:mossy_blue_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
@@ -865,32 +865,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_short_brick_slab",
+    "block": "createdeco:short_blue_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_tiled_brick_slab",
+    "block": "createdeco:tiled_blue_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_long_brick_slab",
+    "block": "createdeco:long_blue_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_corner_brick_slab",
+    "block": "createdeco:corner_blue_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_cracked_brick_slab",
+    "block": "createdeco:cracked_blue_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_mossy_brick_slab",
+    "block": "createdeco:mossy_blue_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
@@ -900,67 +900,67 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_short_brick_wall",
+    "block": "createdeco:short_blue_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_tiled_brick_wall",
+    "block": "createdeco:tiled_blue_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_long_brick_wall",
+    "block": "createdeco:long_blue_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_corner_brick_wall",
+    "block": "createdeco:corner_blue_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_cracked_brick_wall",
+    "block": "createdeco:cracked_blue_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:blue_mossy_brick_wall",
+    "block": "createdeco:mossy_blue_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_brick",
+    "block": "createdeco:dean_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_short_brick",
+    "block": "createdeco:short_dean_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_tiled_brick",
+    "block": "createdeco:tiled_dean_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_long_brick",
+    "block": "createdeco:long_dean_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_corner_brick",
+    "block": "createdeco:corner_dean_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_cracked_brick",
+    "block": "createdeco:cracked_dean_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_mossy_brick",
+    "block": "createdeco:mossy_dean_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
@@ -970,32 +970,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_short_brick_stairs",
+    "block": "createdeco:short_dean_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_tiled_brick_stairs",
+    "block": "createdeco:tiled_dean_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_long_brick_stairs",
+    "block": "createdeco:long_dean_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_corner_brick_stairs",
+    "block": "createdeco:corner_dean_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_cracked_brick_stairs",
+    "block": "createdeco:cracked_dean_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_mossy_brick_stairs",
+    "block": "createdeco:mossy_dean_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
@@ -1005,32 +1005,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_short_brick_slab",
+    "block": "createdeco:short_dean_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_tiled_brick_slab",
+    "block": "createdeco:tiled_dean_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_long_brick_slab",
+    "block": "createdeco:long_dean_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_corner_brick_slab",
+    "block": "createdeco:corner_dean_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_cracked_brick_slab",
+    "block": "createdeco:cracked_dean_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_mossy_brick_slab",
+    "block": "createdeco:mossy_dean_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
@@ -1040,67 +1040,67 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_short_brick_wall",
+    "block": "createdeco:short_dean_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_tiled_brick_wall",
+    "block": "createdeco:tiled_dean_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_long_brick_wall",
+    "block": "createdeco:long_dean_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_corner_brick_wall",
+    "block": "createdeco:corner_dean_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_cracked_brick_wall",
+    "block": "createdeco:cracked_dean_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dean_mossy_brick_wall",
+    "block": "createdeco:mossy_dean_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_brick",
+    "block": "createdeco:dusk_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_short_brick",
+    "block": "createdeco:short_dusk_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_tiled_brick",
+    "block": "createdeco:tiled_dusk_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_long_brick",
+    "block": "createdeco:long_dusk_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_corner_brick",
+    "block": "createdeco:corner_dusk_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_cracked_brick",
+    "block": "createdeco:cracked_dusk_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_mossy_brick",
+    "block": "createdeco:mossy_dusk_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
@@ -1110,32 +1110,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_short_brick_stairs",
+    "block": "createdeco:short_dusk_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_tiled_brick_stairs",
+    "block": "createdeco:tiled_dusk_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_long_brick_stairs",
+    "block": "createdeco:long_dusk_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_corner_brick_stairs",
+    "block": "createdeco:corner_dusk_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_cracked_brick_stairs",
+    "block": "createdeco:cracked_dusk_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_mossy_brick_stairs",
+    "block": "createdeco:mossy_dusk_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
@@ -1145,32 +1145,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_short_brick_slab",
+    "block": "createdeco:short_dusk_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_tiled_brick_slab",
+    "block": "createdeco:tiled_dusk_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_long_brick_slab",
+    "block": "createdeco:long_dusk_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_corner_brick_slab",
+    "block": "createdeco:corner_dusk_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_cracked_brick_slab",
+    "block": "createdeco:cracked_dusk_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_mossy_brick_slab",
+    "block": "createdeco:mossy_dusk_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
@@ -1180,67 +1180,67 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_short_brick_wall",
+    "block": "createdeco:short_dusk_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_tiled_brick_wall",
+    "block": "createdeco:tiled_dusk_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_long_brick_wall",
+    "block": "createdeco:long_dusk_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_corner_brick_wall",
+    "block": "createdeco:corner_dusk_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_cracked_brick_wall",
+    "block": "createdeco:cracked_dusk_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:dusk_mossy_brick_wall",
+    "block": "createdeco:mossy_dusk_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_brick",
+    "block": "createdeco:pearl_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_short_brick",
+    "block": "createdeco:short_pearl_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_tiled_brick",
+    "block": "createdeco:tiled_pearl_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_long_brick",
+    "block": "createdeco:long_pearl_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_corner_brick",
+    "block": "createdeco:corner_pearl_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_cracked_brick",
+    "block": "createdeco:cracked_pearl_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_mossy_brick",
+    "block": "createdeco:mossy_pearl_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
@@ -1250,32 +1250,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_short_brick_stairs",
+    "block": "createdeco:short_pearl_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_tiled_brick_stairs",
+    "block": "createdeco:tiled_pearl_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_long_brick_stairs",
+    "block": "createdeco:long_pearl_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_corner_brick_stairs",
+    "block": "createdeco:corner_pearl_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_cracked_brick_stairs",
+    "block": "createdeco:cracked_pearl_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_mossy_brick_stairs",
+    "block": "createdeco:mossy_pearl_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
@@ -1285,32 +1285,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_short_brick_slab",
+    "block": "createdeco:short_pearl_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_tiled_brick_slab",
+    "block": "createdeco:tiled_pearl_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_long_brick_slab",
+    "block": "createdeco:long_pearl_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_corner_brick_slab",
+    "block": "createdeco:corner_pearl_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_cracked_brick_slab",
+    "block": "createdeco:cracked_pearl_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_mossy_brick_slab",
+    "block": "createdeco:mossy_pearl_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
@@ -1320,67 +1320,67 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_short_brick_wall",
+    "block": "createdeco:short_pearl_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_tiled_brick_wall",
+    "block": "createdeco:tiled_pearl_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_long_brick_wall",
+    "block": "createdeco:long_pearl_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_corner_brick_wall",
+    "block": "createdeco:corner_pearl_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_cracked_brick_wall",
+    "block": "createdeco:cracked_pearl_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:pearl_mossy_brick_wall",
+    "block": "createdeco:mossy_pearl_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_brick",
+    "block": "createdeco:scarlet_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_short_brick",
+    "block": "createdeco:short_scarlet_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_tiled_brick",
+    "block": "createdeco:tiled_scarlet_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_long_brick",
+    "block": "createdeco:long_scarlet_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_corner_brick",
+    "block": "createdeco:corner_scarlet_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_cracked_brick",
+    "block": "createdeco:cracked_scarlet_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_mossy_brick",
+    "block": "createdeco:mossy_scarlet_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
@@ -1390,32 +1390,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_short_brick_stairs",
+    "block": "createdeco:short_scarlet_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_tiled_brick_stairs",
+    "block": "createdeco:tiled_scarlet_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_long_brick_stairs",
+    "block": "createdeco:long_scarlet_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_corner_brick_stairs",
+    "block": "createdeco:corner_scarlet_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_cracked_brick_stairs",
+    "block": "createdeco:cracked_scarlet_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_mossy_brick_stairs",
+    "block": "createdeco:mossy_scarlet_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
@@ -1425,32 +1425,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_short_brick_slab",
+    "block": "createdeco:short_scarlet_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_tiled_brick_slab",
+    "block": "createdeco:tiled_scarlet_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_long_brick_slab",
+    "block": "createdeco:long_scarlet_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_corner_brick_slab",
+    "block": "createdeco:corner_scarlet_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_cracked_brick_slab",
+    "block": "createdeco:cracked_scarlet_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_mossy_brick_slab",
+    "block": "createdeco:mossy_scarlet_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
@@ -1460,67 +1460,67 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_short_brick_wall",
+    "block": "createdeco:short_scarlet_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_tiled_brick_wall",
+    "block": "createdeco:tiled_scarlet_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_long_brick_wall",
+    "block": "createdeco:long_scarlet_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_corner_brick_wall",
+    "block": "createdeco:corner_scarlet_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_cracked_brick_wall",
+    "block": "createdeco:cracked_scarlet_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:scarlet_mossy_brick_wall",
+    "block": "createdeco:mossy_scarlet_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_brick",
+    "block": "createdeco:verdant_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_short_brick",
+    "block": "createdeco:short_verdant_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_tiled_brick",
+    "block": "createdeco:tiled_verdant_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_long_brick",
+    "block": "createdeco:long_verdant_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_corner_brick",
+    "block": "createdeco:corner_verdant_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_cracked_brick",
+    "block": "createdeco:cracked_verdant_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_mossy_brick",
+    "block": "createdeco:mossy_verdant_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
@@ -1530,32 +1530,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_short_brick_stairs",
+    "block": "createdeco:short_verdant_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_tiled_brick_stairs",
+    "block": "createdeco:tiled_verdant_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_long_brick_stairs",
+    "block": "createdeco:long_verdant_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_corner_brick_stairs",
+    "block": "createdeco:corner_verdant_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_cracked_brick_stairs",
+    "block": "createdeco:cracked_verdant_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_mossy_brick_stairs",
+    "block": "createdeco:mossy_verdant_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
@@ -1565,32 +1565,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_short_brick_slab",
+    "block": "createdeco:short_verdant_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_tiled_brick_slab",
+    "block": "createdeco:tiled_verdant_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_long_brick_slab",
+    "block": "createdeco:long_verdant_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_corner_brick_slab",
+    "block": "createdeco:corner_verdant_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_cracked_brick_slab",
+    "block": "createdeco:cracked_verdant_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_mossy_brick_slab",
+    "block": "createdeco:mossy_verdant_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
@@ -1600,67 +1600,67 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_short_brick_wall",
+    "block": "createdeco:short_verdant_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_tiled_brick_wall",
+    "block": "createdeco:tiled_verdant_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_long_brick_wall",
+    "block": "createdeco:long_verdant_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_corner_brick_wall",
+    "block": "createdeco:corner_verdant_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_cracked_brick_wall",
+    "block": "createdeco:cracked_verdant_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:verdant_mossy_brick_wall",
+    "block": "createdeco:mossy_verdant_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_brick",
+    "block": "createdeco:umber_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_short_brick",
+    "block": "createdeco:short_umber_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_tiled_brick",
+    "block": "createdeco:tiled_umber_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_long_brick",
+    "block": "createdeco:long_umber_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_corner_brick",
+    "block": "createdeco:corner_umber_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_cracked_brick",
+    "block": "createdeco:cracked_umber_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_mossy_brick",
+    "block": "createdeco:mossy_umber_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
@@ -1670,32 +1670,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_short_brick_stairs",
+    "block": "createdeco:short_umber_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_tiled_brick_stairs",
+    "block": "createdeco:tiled_umber_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_long_brick_stairs",
+    "block": "createdeco:long_umber_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_corner_brick_stairs",
+    "block": "createdeco:corner_umber_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_cracked_brick_stairs",
+    "block": "createdeco:cracked_umber_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_mossy_brick_stairs",
+    "block": "createdeco:mossy_umber_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
@@ -1705,32 +1705,32 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_short_brick_slab",
+    "block": "createdeco:short_umber_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_tiled_brick_slab",
+    "block": "createdeco:tiled_umber_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_long_brick_slab",
+    "block": "createdeco:long_umber_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_corner_brick_slab",
+    "block": "createdeco:corner_umber_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_cracked_brick_slab",
+    "block": "createdeco:cracked_umber_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_mossy_brick_slab",
+    "block": "createdeco:mossy_umber_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
@@ -1740,252 +1740,252 @@
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_short_brick_wall",
+    "block": "createdeco:short_umber_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_tiled_brick_wall",
+    "block": "createdeco:tiled_umber_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_long_brick_wall",
+    "block": "createdeco:long_umber_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_corner_brick_wall",
+    "block": "createdeco:corner_umber_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_cracked_brick_wall",
+    "block": "createdeco:cracked_umber_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:umber_mossy_brick_wall",
+    "block": "createdeco:mossy_umber_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_short_brick",
+    "block": "createdeco:red_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_tiled_brick",
+    "block": "createdeco:short_red_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_long_brick",
+    "block": "createdeco:tiled_red_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_corner_brick",
+    "block": "createdeco:long_red_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_cracked_brick",
+    "block": "createdeco:corner_red_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_mossy_brick",
+    "block": "createdeco:cracked_red_bricks",
     "mass": 2000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_short_brick_stairs",
+    "block": "createdeco:mossy_red_bricks",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_tiled_brick_stairs",
+    "block": "createdeco:tiled_red_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_long_brick_stairs",
+    "block": "createdeco:long_red_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_corner_brick_stairs",
+    "block": "createdeco:corner_red_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_cracked_brick_stairs",
+    "block": "createdeco:cracked_red_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_mossy_brick_stairs",
+    "block": "createdeco:mossy_red_brick_stairs",
     "mass": 1500.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_short_brick_slab",
+    "block": "createdeco:red_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_tiled_brick_slab",
+    "block": "createdeco:tiled_red_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_long_brick_slab",
+    "block": "createdeco:long_red_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_corner_brick_slab",
+    "block": "createdeco:corner_red_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_cracked_brick_slab",
+    "block": "createdeco:cracked_red_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_mossy_brick_slab",
+    "block": "createdeco:mossy_red_brick_slab",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_short_brick_wall",
+    "block": "createdeco:short_red_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_tiled_brick_wall",
+    "block": "createdeco:tiled_red_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_long_brick_wall",
+    "block": "createdeco:long_red_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_corner_brick_wall",
+    "block": "createdeco:corner_red_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_cracked_brick_wall",
+    "block": "createdeco:cracked_red_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:red_mossy_brick_wall",
+    "block": "createdeco:mossy_red_brick_wall",
     "mass": 1000.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:warning_decal",
+    "block": "createdeco:decal_warning",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:creeper_decal",
+    "block": "createdeco:decal_creeper",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:skull_decal",
+    "block": "createdeco:decal_skull",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:flow_decal",
+    "block": "createdeco:decal_flow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:ice_decal",
+    "block": "createdeco:decal_ice",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:radioactive_decal",
+    "block": "createdeco:decal_radioactive",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:up_left_arrow_decal",
+    "block": "createdeco:decal_up_left_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:up_arrow_decal",
+    "block": "createdeco:decal_up_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:up_right_arrow_decal",
+    "block": "createdeco:decal_up_right_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:left_arrow_decal",
+    "block": "createdeco:decal_left_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:cross_decal",
+    "block": "createdeco:decal_cross",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:right_arrow_decal",
+    "block": "createdeco:decal_right_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:down_left_arrow_decal",
+    "block": "createdeco:decal_down_left_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:down_arrow_decal",
+    "block": "createdeco:decal_down_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:down_right_arrow_decal",
+    "block": "createdeco:decal_down_right_arrow",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:fluid_decal",
+    "block": "createdeco:decal_fluid",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:fire_decal",
+    "block": "createdeco:decal_fire",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:electrical_decal",
+    "block": "createdeco:decal_electrical",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:fire_diamond_decal",
+    "block": "createdeco:decal_fire_diamond",
     "mass": 50.0,
     "friction": 0.5
   },
   {
-    "block": "createdeco:no_entry_decal",
+    "block": "createdeco:decal_no_entry",
     "mass": 50.0,
     "friction": 0.5
   }
